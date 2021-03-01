@@ -1,6 +1,6 @@
 import React from 'react';
 import styles from '../../styles/listings.module.css';
-import Link from 'next/Link';
+import Link from 'next/link';
 
 //This method runs before the component loads and pre-fetchs the data
 //and then pumps that data into the compoenent so that it can be rendered with that data inside it.
